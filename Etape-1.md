@@ -9,22 +9,22 @@
 
 **2 - Listing machines :**
 
-Serveur ADDS DNS DHCP
-Serveur de fichier
-Serveur VOIP
-Serveur GLPI
-Serveur WEB
-Windows 10
-Windows 10
-Windows 10
-Ubuntu 24-04
-Ubuntu 24-04
-Ubuntu 24-04
-Tel VOIP
-Tel VOIP
-Tel VOIP
-Tel VOIP
-Tel VOIP
+- Serveur ADDS DNS DHCP
+- Serveur de fichier
+- Serveur VOIP
+- Serveur GLPI
+- Serveur WEB
+- Windows 10
+- Windows 10
+- Windows 10
+- Ubuntu 24-04
+- Ubuntu 24-04
+- Ubuntu 24-04
+- Tel VOIP
+- Tel VOIP
+- Tel VOIP
+- Tel VOIP
+- Tel VOIP
 
 **3 - Schéma synoptique :**
 
