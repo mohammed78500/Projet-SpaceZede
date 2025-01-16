@@ -32,6 +32,7 @@
 
 
 
+![Schéma logique-spaceZede drawio](https://github.com/user-attachments/assets/31a37f05-d7a0-45a2-93de-7d7b8df119be)
 
 
 
