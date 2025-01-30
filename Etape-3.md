@@ -8,13 +8,15 @@
 
 **2 - Installation et configuration du serveur de fichiers :**
 
-
 **3 - Installation et configuration du serveur de téléphonie :**
 
+**4 - Installation et configuration du serveur de messagerie :**
 
-**4 - Installation et configuration du serveur GLPI :**
+**5 - Installation et configuration du serveur GLPI :**
 
-Procédure d'installation de GLPI
+**6 - Installation et configuration du serveur WEB :**
+
+Procédure d'installation de GLPI 
 
 1 – Mise à jour des paquets Debian
 
